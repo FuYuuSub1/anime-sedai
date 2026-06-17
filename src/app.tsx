@@ -302,6 +302,17 @@ export const App = () => {
           </button>
         </div>
 
+        <div className="mt-2 text-center text-sm text-gray-500">
+          {t("originalCredit")}
+          <a
+            href="https://github.com/egoist/anime-sedai"
+            target="_blank"
+            className="underline"
+          >
+            egoist/anime-sedai
+          </a>
+        </div>
+
         <div className="mt-2 text-center">
           {t("footer")}
           <a

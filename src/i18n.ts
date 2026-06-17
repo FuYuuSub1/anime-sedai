@@ -4,7 +4,7 @@ export const translations = {
   zh: {
     title: "動畫世代",
     subtitle: "點擊選擇你看過的動畫",
-    website: "anime-sedai.egoist.dev",
+    website: "https://fuyuusub1.github.io/anime-sedai/",
     watchedCount: "我看過 {{count}}/{{total}} 部動畫",
     selectAll: "全選",
     clear: "清除",
@@ -20,6 +20,7 @@ export const translations = {
     footer: "歷年關注最多的動畫，數據來自 bgm.tv，由",
     madeBy: "製作，",
     viewCode: "查看代碼",
+    originalCredit: "原作出自 ",
     year: "年",
     watched: "看過",
     notWatched: "沒看過",
@@ -36,7 +37,7 @@ export const translations = {
   ja: {
     title: "アニメ世代",
     subtitle: "見たアニメをタップして選択する",
-    website: "anime-sedai.egoist.dev",
+    website: "https://fuyuusub1.github.io/anime-sedai/",
     watchedCount: "{{count}}/{{total}} のアニメを見た",
     selectAll: "すべて選択",
     clear: "クリア",
@@ -52,6 +53,7 @@ export const translations = {
     footer: "各年フォロー数の一番多いアニメ。データソース：bgm.tv。作成者：",
     madeBy: "。",
     viewCode: "ソースコードを見る",
+    originalCredit: "原作：",
     year: "年",
     watched: "見た",
     notWatched: "見ていない",

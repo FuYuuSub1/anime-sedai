@@ -4,7 +4,7 @@ export const translations = {
   zh: {
     title: "動畫世代賓果EXTRA",
     subtitle: "點擊選擇你看過的動畫",
-    website: "https://fuyuusub1.github.io/anime-sedai/",
+    website: "https://fuyuusub1.github.io/anime-sedai-extra/",
     watchedCount: "我看過 {{count}}/{{total}} 部動畫",
     selectAll: "全選",
     clear: "清除",
@@ -36,7 +36,7 @@ export const translations = {
   ja: {
     title: "アニメ世代ビンゴEXTRA",
     subtitle: "見たアニメをタップして選択する",
-    website: "https://fuyuusub1.github.io/anime-sedai/",
+    website: "https://fuyuusub1.github.io/anime-sedai-extra/",
     watchedCount: "{{count}}/{{total}} のアニメを見た",
     selectAll: "すべて選択",
     clear: "クリア",

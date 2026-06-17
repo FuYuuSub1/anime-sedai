@@ -302,29 +302,14 @@ export const App = () => {
           </button>
         </div>
 
-        <div className="mt-2 text-center text-sm text-gray-500">
-          {t("originalCredit")}
-          <a
-            href="https://github.com/egoist/anime-sedai"
-            target="_blank"
-            className="underline"
-          >
-            egoist/anime-sedai
-          </a>
-        </div>
-
         <div className="mt-2 text-center">
           {t("footer")}
           <a
-            href={
-              language === "zh"
-                ? "https://x.com/localhost_4173"
-                : "https://x.com/localhost_5173"
-            }
+            href="https://x.com/localhost_4173"
             target="_blank"
             className="underline"
           >
-            {language === "zh" ? "低空飛行" : "egoist"}
+            低空飛行
           </a>
           {t("madeBy")}
           <a
